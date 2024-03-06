@@ -1,4 +1,7 @@
-### Olá! Eu sou a Dayana Priscilla👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8D8F6&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+DAYANA+PRISCILLA;SOU+DO+BRAZIL,+CE;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
+
 
 - 🌱 Atualmente estudando React e React Native
 - 😄 Pronouns: ela/dela
