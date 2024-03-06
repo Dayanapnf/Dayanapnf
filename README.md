@@ -24,14 +24,15 @@
   <img align="center" alt="day-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-  ##
- 
+  
+<img src="https://github.com/getintorj/getintorj/blob/master/line-neon.gif" width="100%"> 
 <div> 
  <a href = "mailto:daypnfsi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/dayana-priscilla" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://dayanapnf.github.io/Portfolio/">
     <img src="https://komarev.com/ghpvc/?username=Dayanapnf&style=for-the-badge&color=ff69b4">
 </a>
+
 
 
 </div>
