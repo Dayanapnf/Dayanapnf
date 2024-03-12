@@ -15,7 +15,7 @@
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanapnf&langs_count=15&layout=compact&hide_progress=true&theme=radical)](https://github.com/dayanapnf/github-readme-stats)|
 |---|
 
-![snake animation](https://github.com/<Dayanapnf>/<Dayanapnf>/blob/output/github-contribution-grid-snake2.svg)
+
 
 
 
