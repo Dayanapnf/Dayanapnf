@@ -40,4 +40,4 @@
       <img src="https://komarev.com/ghpvc/?username=Dayanapnf&style=for-the-badge&color=ff69b4">
    </a>
 </div>
-<img src="https://github.com/getintorj/getintorj/blob/master/line-neon.gif" width="100%"> 
+
