@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8D8F6&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+DAYANA+PRISCILLA;SOU+DO+BRASIL,+CE;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
 
 
-- 🌱 Atualmente estudando React e React Native
-- Fazendo a trilha full-stack no curso da +prati 
+- 🌱 Atualmente estudando React e React Native.
+- Fazendo a trilha full-stack no curso da +prat.
 - 😄 Pronouns: ela/dela
 - [Portfólio](https://dayanapnf.github.io/Portfolio/)
 
