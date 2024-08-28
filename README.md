@@ -4,7 +4,7 @@
 
 
 - 🌱 Atualmente estudando React e React Native.
-- Fazendo a trilha full-stack no curso da +prat.
+- Estagiando na Fundação Demócrito Rocha
 - 😄 Pronouns: ela/dela
 - [Portfólio](https://dayanapnf.github.io/Portfolio/)
 
