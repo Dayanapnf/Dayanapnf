@@ -4,7 +4,7 @@
 
 
 - 🌱 Atualmente estudando React e React Native.
-- Estagiando na Fundação Demócrito Rocha
+- Estagiando na Target Sistemas 
 - 😄 Pronouns: ela/dela
 - [Portfólio](https://dayanapnf.github.io/Portfolio/)
 
